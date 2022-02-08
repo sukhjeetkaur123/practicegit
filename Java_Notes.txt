@@ -31,10 +31,10 @@ Method: add(obj)
       :set(index,obj)
        :contains(obj)
       :isEmpty(); return true and false
-      :removeAll()
+      
 
 
-Dated: 25-01-2022
+Dated: 26-01-2022
 Session : Learned about xpath, types, contains and text method.
 Task: Assignment.
 Self Learn: Collection- List, ArrayList.........

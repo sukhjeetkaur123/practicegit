@@ -1,0 +1,40 @@
+ Palindrome Program in Java
+4) Factorial Program in Java
+5) Armstrong Number in Java
+6) How to Generate Random Number in Java
+
+
+Date: 01/25/22
+Sessions:Learning about the Automation testing, Selenium and Selenium Xpath.
+ Self Learning:
+     : Armstrong Number in Java
+     :How to Generate Random Number in Java
+     :Palindrome Program in Java
+     :Install Eclipse
+Issue1: Some jar files in Eclipse do not working.
+
+
+
+collection: it is the single object to store the multiple data
+Framework: represnt the architechure of work
+collection framework: it is set of predfind class and interfaces which store multiple data 
+it contains 2 main part
+1: java.util.collection(direct data store)
+2: java.util.Map(store data in kay and value)
+ArrayList: one of class use for list interface which use all method od list interfac.we want to add duplicate value then we used arrayList
+ArrayList<String> al = new <String>();
+Method: add(obj)
+      :add(ind,obj)
+      :size()
+      :remove(index)
+      :get(index)
+      :set(index,obj)
+       :contains(obj)
+      :isEmpty(); return true and false
+      :removeAll()
+
+
+Dated: 25-01-2022
+Session : Learned about xpath, types, contains and text method.
+Task: Assignment.
+Self Learn: Collection- List, ArrayList
